@@ -8,7 +8,7 @@ import com.evstation.strategy.pricing.IBillingStrategy;
 import java.util.UUID;
 
 /**
- * Generates transparent, itemized bills for charging sessions.
+ * Generates transparent, itemized bills for charging sessions..
  */
 public class BillingService {
 

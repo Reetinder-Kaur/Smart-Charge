@@ -5,7 +5,7 @@ import java.util.*;
 
 /**
  * Manages active and completed charging sessions.
- * Uses ArrayList for indexed history and LinkedHashMap for active sessions.
+ * Uses ArrayList for indexed history and LinkedHashMap for active sessions..
  */
 public class SessionHistory {
 

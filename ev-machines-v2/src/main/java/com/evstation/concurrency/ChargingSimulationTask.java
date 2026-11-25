@@ -8,7 +8,7 @@ import com.evstation.model.Vehicle;
 
 /**
  * Concurrent task simulating real-time EV charging on an independent background thread.
- * Enables multiple bays to charge simultaneously in parallel without blocking the main application.
+ * Enables multiple bays to charge simultaneously in parallel without blocking the main application..
  */
 public class ChargingSimulationTask implements Runnable {
 
